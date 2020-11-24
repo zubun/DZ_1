@@ -1,3 +1,4 @@
+# Задание 2.
 seconds = int(input("Введите кол-во секунд: "))
 hour = seconds // 3600
 seconds %= 3600
